@@ -1,9 +1,9 @@
 TI-Auto-Refresh
 ===============
 
-## Installation Instructions
+### Installation Instructions
 
-1. Download the TI Auto-Refresh.crx file from the Releases page, or simply press [https://github.com/pendo324/TI-Auto-Refresh/releases/download/v1.0/TI.Auto-Refresh.crx](this link).
+1. Download the TI Auto-Refresh.crx file from the Releases page, or simply press (https://github.com/pendo324/TI-Auto-Refresh/releases/download/v1.0/TI.Auto-Refresh.crx)[this link].
 2. Paste chrome://extenstion into your address bar
 3. Drag the file from your Downloads folder into the tab with chrome://extenstion open.
 4. Done!
