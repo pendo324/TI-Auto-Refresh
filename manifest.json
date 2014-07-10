@@ -1,0 +1,12 @@
+{
+  "name": "TI Auto-Refresh",
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "Refreshes the match status and results sections of the TI page without reloading the stream.",
+  "permissions": ["tabs", "http://*/*"],
+  "web_accessible_resources": ["myScript.js"],
+  "content_scripts": [{
+        "matches": [ "http://www.dota2.com/international/watch/*"],
+        "js" : ["script.js"]
+    }]
+}
